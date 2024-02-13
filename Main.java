@@ -6,8 +6,9 @@ import java.util.LinkedList;
 
 
 public class Main extends Application {
-	private Professor cat;
-	private Student dog;
+	
+	private Professor professor;
+	private Student student;
 	
 	public static void main(String args[]) throws Exception {
 
