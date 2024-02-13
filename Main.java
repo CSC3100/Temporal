@@ -5,7 +5,10 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 
-public class Main {
+public class Main extends Application {
+	Professor cat;
+	Student dog;
+	
 	public static void main(String args[]) throws Exception {
 
 		// Create a linked list of points
