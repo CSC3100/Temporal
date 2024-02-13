@@ -6,12 +6,8 @@ import java.util.LinkedList;
 
 
 class Main extends Application {	
-private	
 	Professor	
-	professor;
-private	
 	Student 	
-	student;
 	
 	public static void main(String args[]) throws Exception {
 
