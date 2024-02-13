@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 
-public class Main extends Application {
+class Main extends Application {
 	
 	private Professor professor;
 	private Student student;
