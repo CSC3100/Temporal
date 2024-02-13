@@ -1,1 +1,4 @@
-c
+class Professor {
+  private Computer computer;
+  
+}
