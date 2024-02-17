@@ -1,3 +1,3 @@
-class Application {
+class Application implements MouseListener {
 
 }
