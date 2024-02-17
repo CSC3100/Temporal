@@ -10,7 +10,8 @@ class Main extends Application {
 	private Student student;
 	
 	public static void main(String args[]) throws Exception {
-
+Computer computer;
+		
 		// Create a linked list of points
 		LinkedList<Point> points = new LinkedList<Point>();
 		points.add(new Point(50, 10));
